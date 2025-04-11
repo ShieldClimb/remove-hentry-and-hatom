@@ -36,6 +36,9 @@ ShieldClimb's **[Remove Hentry and Hatom](https://shieldclimb.com/free-woocommer
 
 ## 📜 Changelog
 
+### v1.0.1
+- Updated: Tested up to WordPress 6.8
+
 ### v1.0.0
 - Initial release
 

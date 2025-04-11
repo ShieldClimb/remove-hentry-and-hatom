@@ -4,9 +4,9 @@
  * Plugin Name: ShieldClimb – Remove Hentry and Hatom
  * Plugin URI: https://shieldclimb.com/free-woocommerce-plugins/remove-hentry-and-hatom/
  * Description: Remove hentry and hatom microformats in WordPress to fix SEO issues, improve search rankings, and enhance your site's overall performance.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 5.8
- * Tested up to: 6.7
+ * Tested up to: 6.8
  * Requires PHP: 7.2
  * Author: shieldclimb.com
  * Author URI: https://shieldclimb.com/about-us/
