@@ -15,6 +15,10 @@ ShieldClimb's **[Remove Hentry and Hatom](https://shieldclimb.com/free-woocommer
 1. **Upload and Install**: Upload the plugin and install it in WordPress.
 2. **Activate**: Click activate.
 
+## 📺 Watch the Full Install and Setup Tutorial Here:
+
+[![How to Install and Setup the Plugin](https://img.youtube.com/vi/M5FViB8EexQ/0.jpg)](https://www.youtube.com/watch?v=M5FViB8EexQ)
+
 ## 🔥 Features
 
 - **[Easy Installation](https://shieldclimb.com/free-woocommerce-plugins/remove-hentry-and-hatom/)**: Get started in just a few clicks. Simply install the plugin and activate it.
@@ -35,6 +39,9 @@ ShieldClimb's **[Remove Hentry and Hatom](https://shieldclimb.com/free-woocommer
 ![After](https://shieldclimb.com/wp-content/uploads/2025/04/screenshot-2-5.png)
 
 ## 📜 Changelog
+
+### v1.0.2
+- Updated: Readme and metadata updates
 
 ### v1.0.1
 - Updated: Tested up to WordPress 6.8

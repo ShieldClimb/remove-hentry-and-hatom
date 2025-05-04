@@ -1,10 +1,10 @@
 === ShieldClimb – Remove Hentry and Hatom ===
 Contributors: shieldclimb
 Donate link: https://shieldclimb.com/
-Tags: Remove hentry, Remove hatom, WordPress Structured Data, SEO Optimization WordPress Plugin, Fix SEO Errors WordPress
+Tags: remove hentry, google search console, wordpress seo, schema, seo
 Requires at least: 5.8
 Tested up to: 6.8
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -19,12 +19,18 @@ Our plugin provides an easy, automated solution to remove hentry and hatom micro
 
 See more in documentation via [this website](https://shieldclimb.com/free-woocommerce-plugins/remove-hentry-and-hatom/).
 
+📺 **Watch the full install and setup tutorial here:**  
+[youtube https://www.youtube.com/watch?v=M5FViB8EexQ]
+
 == Installation ==
 
 1. Download our plugin from https://shieldclimb.com/free-woocommerce-plugins/remove-hentry-and-hatom/
 2. At your WordPress admin, Go to Plugins > Add New Plugin > Upload Plugin > Choose File (Choose the file you downloaded just now) > Click Install
 3. Click Activate to automatically start remove hentry and hatom microformats.
 4. Enjoy an SEO-optimized, faster WordPress website free from unnecessary markup.
+
+📺 **Watch the full install and setup tutorial here:**  
+[youtube https://www.youtube.com/watch?v=M5FViB8EexQ]
 
 == Frequently Asked Questions ==
 
@@ -42,10 +48,14 @@ Nope. Just install, activate, and you’re good to go. It’s a plug-and-play so
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
+1. Before activate plugin
+2. After activate plugin
 
 == ChangeLog ==
+
+= V1.0.2 =
+
+* **Updated**: Readme and metadata updates
 
 = V1.0.1 =
 
