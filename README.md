@@ -65,6 +65,6 @@ Released under **GPLv2 or later**. See [LICENSE](https://www.gnu.org/licenses/ol
 ### 🌐 Helpful Links
 - **[ShieldClimb Free Woocommerce Plugins](https://shieldclimb.com/free-woocommerce-plugins/)** – Explore more free plugins.
 - **[Fix WordPress Structured Data Errors for Better SEO – Blog Post](https://shieldclimb.com/blog/fix-wordpress-structured-data-errors/)** – Learn more about this feature.
-- **[High-Risk Card Payment Gateway](https://shieldclimb.com/high-risk-card-payment-gateway/)** – Secure payment processing for high-risk businesses.
+- **[High-Risk Card Payment Gateway](https://shieldclimb.com/high-risk-payment-gateway/)** – Secure payment processing for high-risk businesses.
 - **[Crypto Payment Gateway](https://shieldclimb.com/crypto-payment-gateway/)** – Secure and seamless crypto payment gateway for fast, global transactions with low fees. 
 - **[ShieldClimb Homepage](https://shieldclimb.com/)** – Explore all our services and solutions.
