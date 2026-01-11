@@ -1,10 +1,10 @@
 === ShieldClimb – Remove Hentry and Hatom ===
 Contributors: shieldclimb
-Donate link: https://shieldclimb.com/
+Donate link: https://shieldclimb.com/product/donate-now/
 Tags: remove hentry, google search console, wordpress seo, schema, seo
 Requires at least: 5.8
-Tested up to: 6.8
-Stable tag: 1.0.2
+Tested up to: 6.9
+Stable tag: 1.0.3
 Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -52,6 +52,10 @@ Nope. Just install, activate, and you’re good to go. It’s a plug-and-play so
 2. After activate plugin
 
 == ChangeLog ==
+
+= V1.0.3 =
+
+* **Updated**: Tested up to WordPress 6.9
 
 = V1.0.2 =
 
